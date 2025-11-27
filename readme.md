@@ -26,8 +26,7 @@ Verifico la presenza della scansione nell'archivio digitale
    - Creo una cartella con il nome della pratica.
    - Sposto documento da archivio a cartella.
    - Salvo.
-
-     
+    
 : ALTRIMENTI
   * Creo archivio digitale.
   * ripeto la scansione.
